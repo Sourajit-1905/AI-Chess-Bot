@@ -1,0 +1,7 @@
+stockfish-windows-x86-64-avx2.zip
+/venv
+/stockfish
+/dist
+/data
+/build
+/pycache
